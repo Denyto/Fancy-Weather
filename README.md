@@ -1,1 +1,1 @@
-https://denyto.github.io/Singolo/
+https://denyto.github.io/Fancy-Weather/
